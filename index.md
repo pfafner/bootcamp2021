@@ -42,23 +42,11 @@ Lunes a viernes, de 17:00 a 19:00.
 
 * [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*.](http://library.lol/main/5F88A9F135B7AB31FBCF1729412560DC){:target="_blank"}
 
-* [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](http://library.lol/main/8ECFEEB2E1F9A19C770FBA1FF85FA566){:target="_blank"}
 
 ### Referencias adicionales:
 
-* [G. James, D. Witten, T. Hastie, R. Tibshirani (2008). *An Introduction to Statistical Learning with Applications in R*.](http://library.lol/main/1E48B8220FEE4CD9D192F4ED5020F2DA){:target="_blank"}
+* [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*.](http://library.lol/main/8ECFEEB2E1F9A19C770FBA1FF85FA566){:target="_blank"}
 
 * [A. Izenman (2008). *Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning*.](http://library.lol/main/B5E1DA4CD9133B468CA730402BBC7117){:target="_blank"}
 
 * [B. Everitt, T. Hothorn (2011). *An Introduction to Applied Multivariate Analysis with R*](http://library.lol/main/83BD38DABC018FE79C6AEEF726BF20D7){:target="_blank"}
-
-* [K. Fukunaga (1990). *Introduction to Statistical Pattern Recognition*.](http://library.lol/main/F1FC9B38F5E9F245C7CDE3AFEDED4D06){:target="_blank"}
-
-* [C. Giraud (2015). *Introduction to High-Dimensional Statistics*.](http://library.lol/main/38E216C9EFA26C09F5A2324BC3122F92){:target="_blank"}
-
-* [L. Devroye, L. Györfi, G. Lugosi (1996). *A Probabilistic Theory of Pattern Recognition*.](http://library.lol/main/60F75D016A9C96D67D752536B9D1753A){:target="_blank"}
-
-* [S. Shalev-Shwartz, S. Ben-David (2014). *Understanding Machine Learning: From Theory to Algorithms*.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf){:target="_blank"}
-
-* [P. Rigollet (2015). *Mathematics for Machine Learning*.](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf){:target="_blank"}
-
