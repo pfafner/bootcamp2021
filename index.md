@@ -1,6 +1,6 @@
 ## Data Science Bootcamp 2021
 
-Este es un curso introductorio a la ciencia de datos, con énfasis principalmente en los fundamentos matemáticos y estadísticos de los principales algoritmos de aprendizaje automático y reconocimiento de patrones. El tema central del curso es el estudio de métodos para obtener información útil a partir de datos. Al final del curso, los estudiantes comprederán, tanto en la teoría como en la práctica, las etapas necesarias para producir un estudio o análisis de datos, desde la concepción de un problema, hasta la generación de un informe técnico de análisis. Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con temas de álgebra lineal, cálculo, estadística matemática, y tener conocimientos de al menos un lenguaje de programación (*e.g.* Python, R, Matlab, C++, u otros).
+Esta es una capacitación diseñada para Accointing Guatemala que cubre temas de programación informática, matemáticas y estadística, ciencia de datos y aprendizaje automático. Incluye la explicación de la teoría básica necesaria para implementar modelos simples de aprendizaje automático, así como instrucciones sobre cómo manejar conceptos básicos de programación en Python en los entornos más comunes, que cubren varios módulos y bibliotecas populares en ciencia de datos.
 
 
 # Programa del curso
@@ -11,6 +11,7 @@ Este es un curso introductorio a la ciencia de datos, con énfasis principalment
 ### Horario
 <div id='id-horario'/>
 
+Lunes a viernes, de 17:00 a 19:00.
 
 # Material del curso
 <div id='id-material'/>
