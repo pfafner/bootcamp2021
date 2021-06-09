@@ -19,7 +19,7 @@ Lunes a viernes, de 17:00 a 19:00.
   **No.**  | **Fecha**    | **Tópicos**                                                         | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------- |  -------------------------------------
   01       | 07.06.2021   | Instalación. Anaconda + Jupyter + VSCode. <br/>                     | [Installation guide](guides/bootcamp-installation-guide.pdf){:target="_blank"}
-  02       | 08.06.2021   | Repaso de Python <br/>                                              | [Aula01.ipynb](code/Aula01.ipynb){:target="_blank"}
+  02       | 08.06.2021   | Repaso de Python <br/>                                              | [Aula01.ipynb](code/Aula01.ipynb){:target="_blank"} <br/> [Aula02.ipynb](code/Aula02.ipynb){:target="_blank"}
   
   
 # Material sobre Python (textos, videos)
