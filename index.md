@@ -23,6 +23,7 @@ Lunes a viernes, de 17:00 a 19:00.
   02       | 09.06.2021   | Repaso de Python II. <br/>                                          | [Aula02.ipynb](code/Aula02.ipynb){:target="_blank"}
   03       | 10.06.2021   | Vectores y Matrices. Numpy. <br/>                                   | [Aula03.ipynb](code/Aula03.ipynb){:target="_blank"}
   04       | 11.06.2021   | Visualización: Matplotlib. Pandas *built-in* graphics. Seaborn.     | [Aula04.ipynb](code/Aula04.ipynb){:target="_blank"}
+  05       | 14.06.2021   | Visualización: Matplotlib. Pandas *built-in* graphics. Seaborn.     | [Aula04.ipynb](code/Aula04.ipynb){:target="_blank"}
   
   
 # Material sobre Python (textos, videos)
