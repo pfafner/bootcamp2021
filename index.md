@@ -25,7 +25,7 @@ Lunes a viernes, de 17:00 a 19:00.
   04       | 11.06.2021   | Visualización: Matplotlib. Pandas *built-in* graphics. Seaborn.     | [Aula04.ipynb](code/Aula04.ipynb){:target="_blank"}
   05       | 14.06.2021   | Pandas I: Creación y consulta <br/>                                 | [Pandas 1](code/Pandas_1_Creating_Reading_Writing.ipynb){:target="_blank"} [Pandas 2](code/Pandas_2_Indexing_Selecting_Assigning.ipynb){:target="_blank"} [Pandas 3](code/Pandas_3_Summary_Functions_Maps.ipynb){:target="_blank"} [Pandas 4](code/Pandas_4_Grouping_Sorting.ipynb){:target="_blank"} [Wine.zip](code/wine.zip){:target="_blank"}
   06       | 15.06.2021   | Pandas II: Agregación y Combinación <br/>                           | [Pandas 5](code/Pandas_5_Renaming_Combining.ipynb){:target="_blank"} [Pandas 6](code/Pandas_6_DataTypes_Missing_Values.ipynb){:target="_blank"}
-  07       | 16.06.2021   | Imputación de datos. <br/>  [Aula07 Slides](slides/Aula07.ipynb){:target="_blank"}                                       | [hpi-data-2016](code/hpi-data-2016.csv){:target="_blank"} [horse-colic.csv](code/horse-colic.csv){:target="_blank"} [horse-colic.names](code/horse-colic.names.txt){:target="_blank"}
+  07       | 16.06.2021   | Imputación de datos. <br/>  [Aula07 Slides](slides/Aula07.pdf){:target="_blank"} [Aula07](code/Aula07.ipynb){:target="_blank"}  | [hpi-data-2016](code/hpi-data-2016.csv){:target="_blank"} [horse-colic.csv](code/horse-colic.csv){:target="_blank"} [horse-colic.names](code/horse-colic.names.txt){:target="_blank"}
   
   
 # Material sobre Python (textos, videos)
