@@ -27,7 +27,7 @@ Lunes a viernes, de 17:00 a 19:00.
   06       | 15.06.2021   | Pandas II: Agregación y Combinación <br/>                           | [Pandas 5](code/Pandas_5_Renaming_Combining.ipynb){:target="_blank"} [Pandas 6](code/Pandas_6_DataTypes_Missing_Values.ipynb){:target="_blank"}
   07       | 16.06.2021   | Imputación de datos. <br/>  [Aula07 Slides](slides/Aula07.pdf){:target="_blank"} [Aula07](code/Aula07.ipynb){:target="_blank"}  | [hpi-data-2016](code/hpi-data-2016.csv){:target="_blank"} [horse-colic.csv](code/horse-colic.csv){:target="_blank"} [horse-colic.names](code/horse-colic.names.txt){:target="_blank"}
   08       | 17.06.2021   | SQL <br/>                                                           | [sample-data.sql](code/sample-data.sql){:target="_blank"} <br/> [sample-model.sql](code/sample-model.sql){:target="_blank"}
-  09       | 18.06.2021   | SQL II <br/>                                                           | [sample-data.sql](code/sample-data.sql){:target="_blank"} <br/> [sample-model.sql](code/sample-model.sql){:target="_blank"}
+  09       | 18.06.2021   | SQL II <br/>                                                        | 
   
   
 # Material sobre Python (textos, videos)
