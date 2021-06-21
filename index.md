@@ -28,7 +28,7 @@ Lunes a viernes, de 17:00 a 19:00.
   07       | 16.06.2021   | Imputación de datos. <br/>  [Aula07 Slides](slides/Aula07.pdf){:target="_blank"} [Aula07](code/Aula07.ipynb){:target="_blank"}  | [hpi-data-2016](code/hpi-data-2016.csv){:target="_blank"} [horse-colic.csv](code/horse-colic.csv){:target="_blank"} [horse-colic.names](code/horse-colic.names.txt){:target="_blank"}
   08       | 17.06.2021   | SQL. <br/>                                                          | [sample-data.sql](code/sample-data.sql){:target="_blank"} <br/> [sample-model.sql](code/sample-model.sql){:target="_blank"}
   09       | 18.06.2021   | SQL II. <br/>                                                       | 
-  10       | 21.06.2021   | Probability basics. <br/>                                           | 
+  10       | 21.06.2021   | Probabilidad. <br/>                                                 | 
   
   
 # Material sobre Python (textos, videos)
