@@ -26,8 +26,9 @@ Lunes a viernes, de 17:00 a 19:00.
   05       | 14.06.2021   | Pandas I: Creación y consulta <br/>                                 | [Pandas 1](code/Pandas_1_Creating_Reading_Writing.ipynb){:target="_blank"} [Pandas 2](code/Pandas_2_Indexing_Selecting_Assigning.ipynb){:target="_blank"} [Pandas 3](code/Pandas_3_Summary_Functions_Maps.ipynb){:target="_blank"} [Pandas 4](code/Pandas_4_Grouping_Sorting.ipynb){:target="_blank"} [Wine.zip](code/wine.zip){:target="_blank"}
   06       | 15.06.2021   | Pandas II: Agregación y Combinación <br/>                           | [Pandas 5](code/Pandas_5_Renaming_Combining.ipynb){:target="_blank"} [Pandas 6](code/Pandas_6_DataTypes_Missing_Values.ipynb){:target="_blank"}
   07       | 16.06.2021   | Imputación de datos. <br/>  [Aula07 Slides](slides/Aula07.pdf){:target="_blank"} [Aula07](code/Aula07.ipynb){:target="_blank"}  | [hpi-data-2016](code/hpi-data-2016.csv){:target="_blank"} [horse-colic.csv](code/horse-colic.csv){:target="_blank"} [horse-colic.names](code/horse-colic.names.txt){:target="_blank"}
-  08       | 17.06.2021   | SQL <br/>                                                           | [sample-data.sql](code/sample-data.sql){:target="_blank"} <br/> [sample-model.sql](code/sample-model.sql){:target="_blank"}
-  09       | 18.06.2021   | SQL II <br/>                                                        | 
+  08       | 17.06.2021   | SQL. <br/>                                                          | [sample-data.sql](code/sample-data.sql){:target="_blank"} <br/> [sample-model.sql](code/sample-model.sql){:target="_blank"}
+  09       | 18.06.2021   | SQL II. <br/>                                                       | 
+  10       | 21.06.2021   | Probability basics. <br/>                                           | 
   
   
 # Material sobre Python (textos, videos)
