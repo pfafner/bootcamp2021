@@ -29,6 +29,7 @@ Lunes a viernes, de 17:00 a 19:00.
   08       | 17.06.2021   | SQL. <br/>                                                          | [sample-data.sql](code/sample-data.sql){:target="_blank"} <br/> [sample-model.sql](code/sample-model.sql){:target="_blank"}
   09       | 18.06.2021   | SQL II. <br/>                                                       | 
   10       | 21.06.2021   | Probabilidad. <br/>                                                 | [understat.csv](code/understat.csv){:target="_blank"} <br/> [understat-per-game.csv](code/understat_per_game.csv){:target="_blank"}
+  11       | 21.06.2021   | Probabilidad. <br/>                                                 | [Aula 11](code/Aula11.ipynb){:target="_blank"}
   
   
 # Material sobre Python (textos, videos)
