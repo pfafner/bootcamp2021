@@ -30,7 +30,7 @@ Lunes a viernes, de 17:00 a 19:00.
   09       | 18.06.2021   | SQL II. <br/>                                                       | 
   10       | 21.06.2021   | Probabilidad. <br/> Variables aleatorias.                           | [understat.csv](code/understat.csv){:target="_blank"} <br/> [understat-per-game.csv](code/understat_per_game.csv){:target="_blank"}
   11       | 22.06.2021   | Distribuciones de probabilidad.                                     | [Aula 11](code/Aula11.ipynb){:target="_blank"}
-  12       | 23.06.2021   | Inferencia estadística.                                             |
+  12       | 23.06.2021   | Inferencia estadística. Estimación de parámetros.                   | [Aula 12](code/Aula12.ipynb){:target="_blank"}
   
   
 # Material sobre Python (textos, videos)
