@@ -32,6 +32,7 @@ Lunes a viernes, de 17:00 a 19:00.
   11       | 22.06.2021   | Distribuciones de probabilidad.                                     | [Aula11.ipynb](code/Aula11.ipynb){:target="_blank"}
   12       | 23.06.2021   | Inferencia estadística. Estimación de parámetros.                   | [Aula12.ipynb](code/Aula12.ipynb){:target="_blank"} <br/> [featuresdf.csv](code/featuresdf.csv){:target="_blank"}
   13       | 24.06.2021   | Pruebas de hipótesis. Comparación de dos muestras. QQ-plots.        | [Aula13.ipynb](code/Aula13.ipynb){:target="_blank"}
+  14       | 25.06.2021   | PCA.                                                                | [deport.csv](code/deport.csv){:target="_blank"} [meteo-users.csv](code/meteo-users.csv){:target="_blank"} [eurodist.txt](code/eurodist.txt){:target="_blank"}
   
   
 # Material sobre Python (textos, videos)
