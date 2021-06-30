@@ -34,6 +34,7 @@ Lunes a viernes, de 17:00 a 19:00.
   13       | 24.06.2021   | Pruebas de hipótesis. Comparación de dos muestras. QQ-plots.        | [Aula13.ipynb](code/Aula13.ipynb){:target="_blank"}
   14       | 25.06.2021   | PCA. <br/> [Aula14a.ipynb](code/Aula14a.ipynb){:target="_blank"} [Aula14b.ipynb](code/Aula14b.ipynb){:target="_blank"} [meteo-users.ipynb](code/meteo-users.ipynb){:target="_blank"}                                                      | [deport.csv](code/deport.csv){:target="_blank"} [meteo-users.csv](code/meteo-users.csv){:target="_blank"} [eurodist.txt](code/eurodist.txt){:target="_blank"}
   15       | 29.06.2021   | Hierarchical Clustering, K-means. <br/>                             | [Aula15a.ipynb](code/Aula15a.ipynb){:target="_blank"} [Aula15b.ipynb](code/Aula15b.ipynb){:target="_blank"} <br/> [horse.jpg](code/horse.jpg){:target="_blank"}
+  16       | 30.06.2021   | Metrics for evaluate clustering. <br/> Linear Regression.           | [Aula15c.ipynb](code/Aula15c.ipynb){:target="_blank"} [Aula16.ipynb](code/Aula16.ipynb){:target="_blank"} <br/> [plot_diagnostic.py](code/plot_diagnostic.py){:target="_blank"}
   
   
 # Material sobre Python (textos, videos)
