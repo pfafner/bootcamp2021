@@ -37,8 +37,8 @@ Lunes a viernes, de 17:00 a 19:00.
   16       | 30.06.2021   | Metrics for evaluate clustering. <br/> Linear Regression.           | [Aula15c.ipynb](code/Aula15c.ipynb){:target="_blank"} [Aula16.ipynb](code/Aula16.ipynb){:target="_blank"} <br/> [plot_diagnostic.py](code/plot_diagnostic.py){:target="_blank"}
   16       | 01.07.2021   | Linear Regression. Diagnostic plots.                                | [Aula17.ipynb](code/Aula17.ipynb){:target="_blank"}
   17       | 01.07.2021   | K-nearest neighbours. <br/> Naive Bayes Classifier.                 | [Aula18.ipynb](code/Aula18.ipynb){:target="_blank"} [Aula18b.ipynb](code/Aula18b.ipynb){:target="_blank"}
-  18       | 02.07.2021   | K-nearest neighbours. <br/> Naive Bayes Classifier.                 | [Aula19.ipynb](code/Aula19.ipynb){:target="_blank"}
-  19       | 02.07.2021   | K-nearest neighbours. <br/> Naive Bayes Classifier.                 | [Aula20a.ipynb](code/Aula20a.ipynb){:target="_blank"} [Aula20b.ipynb](code/Aula20b.ipynb){:target="_blank"}
+  18       | 02.07.2021   | Logistic Classifier.                                                | [Aula19.ipynb](code/Aula19.ipynb){:target="_blank"}
+  19       | 02.07.2021   | Decision Trees. <br/> Random Forests.                               | [Aula20a.ipynb](code/Aula20a.ipynb){:target="_blank"} [Aula20b.ipynb](code/Aula20b.ipynb){:target="_blank"}
   
 # Material sobre Python (textos, videos)
 <div id='id-python'/>
